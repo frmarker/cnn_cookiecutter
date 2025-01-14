@@ -2,9 +2,13 @@ docs/site/
 
 # test cache
 manual_test/
+.ruff_cache
 
 # other local dev info
 .vscode/
+
+# wandb
+wandb/
 
 # Mac OS-specific storage files
 .DS_Store
